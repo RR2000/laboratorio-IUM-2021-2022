@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="HardcodedText">
+    <item
+        android:id="@+id/nav_login"
+        android:title="Login" />
+
+    <item
+        android:id="@+id/nav_book_tutoring"
+        android:title="Prenotazioni disponibili" />
+
+    <item
+        android:id="@+id/nav_my_bookings"
+        android:title="Le mie prenotazioni" />
+
+    <item
+        android:id="@+id/nav_add_things"
+        android:title="Aggiungi cose" />
+
+    <item
+        android:id="@+id/nav_remove_things"
+        android:title="Rimuovi cose" />
+
+</menu>
